@@ -113,9 +113,9 @@ Experience
 ####[John Lewis]
 #####Data Analyst (temporary contract)
 ######April 2008 to December 2008 &nbsp; | &nbsp; Victoria, London
-•	Provided targeted and selection of prospects for direct mail/email using Chordiant Marketing Director , SAS and managed queries from the Email Service Provider/IT regarding email campaign delivery.
-•	Carried out post campaign response/customer analysis and reported results back to the business with recommendations.
-•	Liaised closely with Waitrose, John Lewis and Greenbee Marketing teams to develop and agree campaign strategies for direct mail and email.
+- Provided targeted and selection of prospects for direct mail/email using Chordiant Marketing Director , SAS and managed queries from the Email Service Provider/IT regarding email campaign delivery.
+- Carried out post campaign response/customer analysis and reported results back to the business with recommendations.
+- Liaised closely with Waitrose, John Lewis and Greenbee Marketing teams to develop and agree campaign strategies for direct mail and email.
 
 
 
