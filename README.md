@@ -1,19 +1,20 @@
 Leopold Kwok
 ===========================
 
-
+I'm a graduate from Makers Academy graduate seeking employment as a Junior Web Developer.  I'm seeking a great company where I can extend my web development skills and utilise my background in 
 
 Recent projects
 ---------------
 
 | [Housemates] | [Chitter] | [Rock Paper Scissors] |
 |:--------------|:--------------|:--------------|
-| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: Ember.js, Javascript Bootstrap, Ruby, Railst<br> [View Housemates] | In this project I created a Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> [View Chitter] | In this project I created a web app version of the game Rock, Paper, Scissors, Lizard, Spock <br> Technologies: Ruby, Sinatra, JavaScript, jQuery, HTML, CSS <br> [View Rock Paper Scissors] |
+| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: Ember.js, Javascript Bootstrap, Ruby, Railst<br> [View Housemates] | In this project I created a Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> | In this project I created a web app version of the game Rock, Paper, Scissors, Lizard, Spock <br> Technologies: Ruby, Sinatra, JavaScript, jQuery, HTML, CSS <br>|
 
 
 Web development
 ---------------
 
+AMEND I have wanted to learn to code for a long time, as I believe web apps can add much value to organisations.  Once I found out that I could learn to code in an intensive environment I seized this opportunity.  Over the past three months I have definitely enjoyed learning to code and I look forward to creating beautiful web apps in the future.
 
 ####[Makers Academy]
 #####Web Development Intensive Course
@@ -21,6 +22,7 @@ Web development
 - Highly selective 12 week bootcamp style course
 - Full stack web development
 - Focus on agile practices, especially test driven development (TDD), pair programming and teamwork
+- Final project, [Fhellow] a social network for freelancers, developed over 10 days using Ruby on Rails 
 - Built portfolio of projects, which are found on [Github]
 
 #####Skills learned
@@ -110,13 +112,11 @@ Experience
 
 ####[John Lewis]
 #####Data Analyst (temporary contract)
-######October 2006 to April 2010 &nbsp; | &nbsp; Melbourne, Australia
-Continuing to work for one of the 'big four' professional services firms, Michelle worked across many industries advising large clients on strategic and operational issues such as:
-- Business cases for major technology investments 
-- Business integrations
-- Business process transformations
-- Strategic pricing reviews
-- Prioritisation of IT projects  
+######April 2008 to December 2008 &nbsp; | &nbsp; Victoria, London
+•	Provided targeted and selection of prospects for direct mail/email using Chordiant Marketing Director , SAS and managed queries from the Email Service Provider/IT regarding email campaign delivery.
+•	Carried out post campaign response/customer analysis and reported results back to the business with recommendations.
+•	Liaised closely with Waitrose, John Lewis and Greenbee Marketing teams to develop and agree campaign strategies for direct mail and email.
+
 
 
 ####[CACI]
