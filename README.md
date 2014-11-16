@@ -1,20 +1,20 @@
 Leopold Kwok
 ===========================
 
-I'm a graduate from Makers Academy graduate seeking employment as a Junior Web Developer.  I'm seeking a great company where I can extend my web development skills and utilise my background in 
+Makers Academy graduate seeking employment as a Junior Developer in a great company to continue extending my web development skills and utilise my background in database marketing.
 
 Recent projects
 ---------------
 
-| [Housemates] | [Chitter] | [Rock Paper Scissors] |
+| [Housemates] | [Twitter Clone] | [Bookmark Manager] |
 |:--------------|:--------------|:--------------|
-| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: Ember.js, Javascript Bootstrap, Ruby, Railst<br> [View Housemates] | In this project I created a Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> | In this project I created a web app version of the game Rock, Paper, Scissors, Lizard, Spock <br> Technologies: Ruby, Sinatra, JavaScript, jQuery, HTML, CSS <br>|
+| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: Ember.js, Javascript Bootstrap, Ruby, Railst<br> [View Housemates] | Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> | Sinatra website allowing users to store links to their favorite websites. Using integration testing, relational databases and security considerations. <br> Technologies: Ruby, Sinatra, HTML, CSS <br>|
 
 
 Web development
 ---------------
 
-AMEND I have wanted to learn to code for a long time, as I believe web apps can add much value to organisations.  Once I found out that I could learn to code in an intensive environment I seized this opportunity.  Over the past three months I have definitely enjoyed learning to code and I look forward to creating beautiful web apps in the future.
+I have always been excited by technology and wanted to learn how to become a developer. I decided I wanted to accelerate my learning by joining Makers Academy in London.
 
 ####[Makers Academy]
 #####Web Development Intensive Course
@@ -22,7 +22,7 @@ AMEND I have wanted to learn to code for a long time, as I believe web apps can 
 - Highly selective 12 week bootcamp style course
 - Full stack web development
 - Focus on agile practices, especially test driven development (TDD), pair programming and teamwork
-- Final project, [Fhellow] a social network for freelancers, developed over 10 days using Ruby on Rails 
+- Two-week final team project to bring it all together
 - Built portfolio of projects, which are found on [Github]
 
 #####Skills learned
@@ -73,6 +73,7 @@ Education
 ####[Cranfield University]
 #####MSc Management & Information Systems 
 ######Full time, September 2002 to December 2003 &nbsp; | &nbsp; Cranfield, United Kingdom  
+Group Project: ‘Developing a Skills Matrix Database’ (for Airbus).
 
 
 
@@ -146,19 +147,15 @@ More information
 ----------------
 #####Contact details
 If you would like to find out more, please feel free to contact me or view more by the following:  
-- Phone + 44 778 999 5094
+- Phone + 44 (0)77 8999 5094
 - Email [leopoldkwok@gmail.com]
-- [LinkedIn]
 - [Github]
-
-#####Work eligibility
-I'm currently seeking work in London.
 
 
 
 [Housemates]: https://github.com/leopoldkwok/housemates
-[Chitter]: https://github.com/michballard/chitter
-[Instagramme]: https://github.com/michballard/instagram-copy
+[Twitter Clone]: https://github.com/leopoldkwok/week6-challenge6
+[Bookmark Manager]: https://github.com/leopoldkwok/bookmarkmanager
 
 [View Housemates]: http://myhousemate.herokuapp.com/
 
