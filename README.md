@@ -12,7 +12,7 @@ Recent projects
 
 
 Web development
----------------
+----------------
 
 I have always been excited by technology and wanted to learn how to become a developer. I decided I wanted to accelerate my learning by joining Makers Academy in London.
 
