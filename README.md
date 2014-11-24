@@ -8,7 +8,7 @@ Recent projects
 
 | [Housemates] | [Twitter Clone] | [Bookmark Manager] |
 |:--------------|:--------------|:--------------|
-| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: Ember.js, Javascript Bootstrap, Ruby, Railst<br> [View Housemates] | Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> | Sinatra website allowing users to store links to their favorite websites. Using integration testing, relational databases and security considerations. <br> Technologies: Ruby, Sinatra, HTML, CSS <br>|
+| Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: Ember.js, Javascript, Bootstrap, Ruby, Railst<br> [View Housemates] | Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> | Sinatra website allowing users to store links to their favorite websites. Using integration testing, relational databases and security considerations. <br> Technologies: Ruby, Sinatra, HTML, CSS <br>|
 
 
 Web development
