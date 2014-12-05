@@ -84,16 +84,16 @@ Group Project: ‘Developing a Skills Matrix Database’ (for Airbus).
 
 
 
-Experience
-----------
+Professional Experience
+-----------------------
 
 ####[Centrica]
 #####Campaign Manager
 ######March 2011 to July 2014 &nbsp; | &nbsp; Staines, United Kingdom
-- Translating, building campaigns to migrate from the old to the new campaign management platform.
-- Maintaining, running and delivering BAU/Adhoc outbound campaigns on the Aprimo platform within agreed timescales using SQL/SAS with average conversion rates of up to 20%. 
-- Building appropriate tests or controls to monitor the effectiveness of the campaign selection process.
-- Providing guidance and support on the available and integrity of data that can be used in a campaign.
+- Built campaigns to migrate from the old to the new campaign management platform.
+- Delivered BAU/Adhoc outbound campaigns on the Aprimo platform within agreed timescales using SQL/SAS with average conversion rates of up to 20%. 
+- Built appropriate tests or controls to monitor the effectiveness of the campaign selection process.
+- Provided guidance and support on the available and integrity of data that can be used in a campaign.
 
 #####Best Next Action Rules Analyst
 - Interpreted business requirements for next best action through high level requirements workshops & designing business rules that enable customer selections that optimise value for both customer & consistently across all British Gas channels. 
