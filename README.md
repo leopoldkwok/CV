@@ -88,7 +88,7 @@ Professional Experience
 -----------------------
 
 ####[Centrica]
-#####Campaign Manager
+#####Campaign Manager  
 ######March 2011 to July 2014 &nbsp; | &nbsp; Staines, United Kingdom
 - Built campaigns to migrate from the old to the new campaign management platform.
 - Delivered BAU/Adhoc outbound campaigns on the Aprimo platform within agreed timescales using SQL/SAS with average conversion rates of up to 20%. 
