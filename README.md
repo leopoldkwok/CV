@@ -164,7 +164,7 @@ If you would like to find out more, please feel free to contact me or view more 
 [Hertfordshire University]: http://www.herts.ac.uk/
 
 [Centrica]: http://www.centrica.com/
-[Everything Everywhere]: http://www.coles.com.au/
+[Everything Everywhere]: http://www.ee.co.uk
 [John Lewis]: http://www.johnlewis.com/
 [CACI]: http://www.caci.co.uk/
 [Homebase]: http://www.homebase.co.uk
