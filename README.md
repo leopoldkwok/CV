@@ -81,6 +81,11 @@ Group Project: ‘Developing a Skills Matrix Database’ (for Airbus).
 ####[Hertfordshire University]
 #####BSc Business Information Systems
 ######Full time, September 1998 to June 2002 &nbsp; | &nbsp; Hertfordshire, United Kingdom
+Included an industrial placement with British Airways - Heathrow	
+- Responsible for the development of an intranet website and migrating it to a CMS.
+- Managed IT helpdesk to deal with queries and developed technical/user manuals.
+- Implemented and supported Lotus Domino servers and clients.
+
 
 
 
