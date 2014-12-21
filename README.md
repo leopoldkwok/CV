@@ -104,7 +104,7 @@ Professional Experience
 - Interpreted business requirements for next best action through high level requirements workshops & designing business rules that enable customer selections that optimise value for both customer & consistently across all British Gas channels. 
 - Proactive use of insight & user feedback to recommend & implement improvements to NBA through refinement of business rules via SAS.
 - Supported the Customer Contact Strategy through analysing & reporting the effectiveness of customer interactions in the current landscape.
-- Used analytical tools - SQL/SAS to analyse customer call centre data and making recommendations from findings to stakeholders inorder to improve customer experience.
+- Used analytical tools - SQL/SAS to analyse customer call centre data and making recommendations from findings to stakeholders inorder to improve customer experience. 
 
 
 
