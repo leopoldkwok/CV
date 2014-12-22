@@ -111,7 +111,7 @@ Professional Experience
 ####[Everything Everywhere]
 #####Chordiant Decision Logic Developer
 ######December 2008 to March 2011 &nbsp; | &nbsp; Paddington, London
-- Implementation and support of Real Time Marketing inbound CRM Call Centre solutions based on Chordiant Decision Management solutions inorder to increase conversion rate, lower retention costs and retain more customers which has resulted in £4 million increase in gross operating margin per month. Orange is now retaining an additional 4 percent of their most valuable customers each month.
+- Implementated Real Time Marketing inbound CRM Call Centre solutions based on Chordiant Decision Management solutions inorder to increase conversion rate, lower retention costs and retain more customers which has resulted in £4 million increase in gross operating margin per month. Orange is now retaining an additional 4 percent of their most valuable customers each month.
 - Built Key Relationships with Stakeholders i.e. Marketing, IT and other business departments.
 - Developed unit tests based on specification briefs to certify decision logic for release.
 
