@@ -146,7 +146,13 @@ from the 15 Million customers of Spend & Save transactional database which accou
 - Identified problems and liaising with IT to resolve issues towards improving business processes.
 - Extracted data from Oracle using SQL, for analysis in Access and Excel. Reports were created based on analysis.
 
-
+Interests
+----------
+- Playing table tennis
+- Going to meetups:
+	- London Software Craftsmanship Community
+	- Learn Computer Programming
+	- Ruby Hacknight - London
 
 More information
 ----------------
