@@ -153,6 +153,7 @@ Interests
 	- London Software Craftsmanship Community
 	- Learn Computer Programming
 	- Ruby Hacknight - London
+	- Opentech School
 
 More information
 ----------------
