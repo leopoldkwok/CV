@@ -154,6 +154,7 @@ Interests
 	- Learn Computer Programming
 	- Ruby Hacknight - London
 	- Open Tech School - London
+	- Pivotal London Lunch & Learns
 
 More information
 ----------------
