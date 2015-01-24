@@ -123,8 +123,6 @@ Professional Experience
 - Carried out post campaign response/customer analysis and reported results back to the business with recommendations.
 - Liaised closely with Waitrose, John Lewis and Greenbee Marketing teams to develop and agree campaign strategies for direct mail and email.
 
-
-
 ####[CACI]
 #####Consultant
 ######July 2007 to April 2008 &nbsp; | &nbsp; West Kensington, London
@@ -173,8 +171,6 @@ If you would like to find out more, please feel free to contact me or view more 
 
 
 [View Bookmark Manager]: https://github.com/leopoldkwok/bookmarkmanager
-
-
 [View Housemates]: http://myhousemate.herokuapp.com/
 
 [Makers Academy]: http://www.makersacademy.com/
