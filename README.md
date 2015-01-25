@@ -3,7 +3,7 @@ Leopold Kwok
 
 Makers Academy graduate seeking employment as a Junior Developer in a great company to continue extending my web development skills and utilise my background in database marketing.
 
-Recent projects
+Recent Projects
 ---------------
 
 | [Housemates] | [Twitter Clone] | [Bookmark Manager] |
@@ -11,7 +11,7 @@ Recent projects
 | Final Makers Academy group project completed with four other team members. Bill sharing app for flat mates <br> Technologies: Ember.js, Javascript, Bootstrap, Ruby, Railst<br> [View Housemates] | Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> | Sinatra website allowing users to store links to their favorite websites. Using integration testing, relational databases and security considerations. <br> Technologies: Ruby, Sinatra, HTML, CSS <br>[View Bookmark Manager]|
 
 
-Web development
+Web Development
 ----------------
 
 I have always been excited by technology and wanted to learn how to become a developer. I decided I wanted to accelerate my learning by joining Makers Academy in London.
@@ -25,7 +25,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 - Two-week final team project to bring it all together
 - Built portfolio of projects, which are found on [Github]
 
-#####Skills learned
+#####Skills Learned
 
 ######Back-end
 - [x] Ruby
@@ -154,7 +154,7 @@ Interests
 	- Open Tech School - London
 	- Pivotal London Lunch & Learns
 
-More information
+More Information
 ----------------
 #####Contact details
 If you would like to find out more, please feel free to contact me or view more by the following:  
