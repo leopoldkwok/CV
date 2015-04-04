@@ -92,6 +92,13 @@ Included an industrial placement with British Airways - Heathrow
 Professional Experience
 -----------------------
 
+#####[Found](part of Big Ideas Group) 
+##### Web Developer Intern
+- Collaborated with other developers in the team to create reliable, scalable and flexible web reports ensuring they are well tested and delivered according to the project schedule.
+- Extracted Facebook API data to mysql databases and filtering for web pages.
+- Assisted the Studio team with front end development jobs within PHP frameworks – Zend/Wordpress  – Javascript, jquery, HTML, CSS, bootstrap.
+
+
 ####[Centrica]
 #####Campaign Manager  
 ######March 2011 to July 2014 &nbsp; | &nbsp; Staines, United Kingdom
