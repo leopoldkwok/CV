@@ -94,6 +94,7 @@ Professional Experience
 
 #####[Found](part of Big Ideas Group) 
 ##### Web Developer Intern
+######February 2015 to April 2015 &nbsp; | &nbsp; Farringdon, United Kingdom
 - Collaborated with other developers in the team to create reliable, scalable and flexible web reports ensuring they are well tested and delivered according to the project schedule.
 - Extracted Facebook API data to mysql databases and filtering for web pages.
 - Assisted the Studio team with front end development jobs within PHP frameworks – Zend/Wordpress  – Javascript, jquery, HTML, CSS, bootstrap.
