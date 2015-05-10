@@ -92,7 +92,7 @@ Included an industrial placement with British Airways - Heathrow
 Professional Experience
 -----------------------
 
-#####[Found](part of Big Ideas Group) 
+####[Found] (part of Big Ideas Group) 
 ##### Web Developer Intern
 ######February 2015 to April 2015 &nbsp; | &nbsp; Farringdon, United Kingdom
 - Collaborated with other developers in the team to create reliable, scalable and flexible web reports ensuring they are well tested and delivered according to the project schedule.
@@ -185,7 +185,7 @@ If you would like to find out more, please feel free to contact me or view more 
 [Cranfield University]: http://www.cranfield.ac.uk/
 [Hertfordshire University]: http://www.herts.ac.uk/
 
-[Found]: https://www.found.co.uk
+[Found]: http://www.found.co.uk
 [Centrica]: http://www.centrica.com/
 [Everything Everywhere]: http://www.ee.co.uk
 [John Lewis]: http://www.johnlewis.com/
