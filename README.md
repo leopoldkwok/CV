@@ -1,7 +1,7 @@
 Leopold Kwok
 ==========================
 
-Makers Academy graduate seeking employment as a Junior Developer in a great company to continue extending my web development skills and utilise my background in database marketing.
+Makers Academy graduate seeking employment as a Junior Developer in a great company to continue extending my web development skills and utilise my background in database marketing. 
 
 Recent Projects
 ---------------
