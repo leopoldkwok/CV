@@ -201,6 +201,7 @@ If you would like to find out more, please feel free to contact me or view more 
 [Cranfield University]: http://www.cranfield.ac.uk/
 [Hertfordshire University]: http://www.herts.ac.uk/
 
+[Cohaesus]: http://cohaesus.co.uk/
 [D&AD]: http://www.dandad.org/
 [Found]: http://www.found.co.uk
 [Centrica]: http://www.centrica.com/
