@@ -1,7 +1,7 @@
 Leopold Kwok
 =========================
 
-Makers Academy graduate seeking employment as a Junior Developer in a great company to continue extending my web development skills and utilise my background in database marketing. 
+Makers Academy graduate seeking employment as a Junior Developer in a great company to continue extending my web development skills and utilise my background in database marketing.
 
 Recent Projects
 ---------------
@@ -29,8 +29,8 @@ I have always been excited by technology and wanted to learn how to become a dev
 
 ######Back-end
 - [x] Ruby
-- [x] Rails 
-- [x] Sinatra 
+- [x] Rails
+- [x] Sinatra
 - [x] PostgreSQL database management
 - [x] DataMapper object relational mapper
 - [x] Bcrypt encryption
@@ -46,7 +46,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 - [x] Bootstrap
 - [x] Responsive design
 
-######Testing 
+######Testing
 - [x] Rspec unit testing
 - [x] Jasmine unit testing
 - [x] Capybara integration testing
@@ -60,7 +60,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 ######Software development methodologies
 - [x] Test driven development
 - [x] Object oriented programming
-- [x] Software design 
+- [x] Software design
 - [x] Agile and lean principles
 - [x] Pair programming
 - [x] Teamwork
@@ -71,8 +71,8 @@ Education
 ---------
 
 ####[Cranfield University]
-#####MSc Management & Information Systems 
-######Full time, September 2002 to December 2003 &nbsp; | &nbsp; Cranfield, United Kingdom  
+#####MSc Management & Information Systems
+######Full time, September 2002 to December 2003 &nbsp; | &nbsp; Cranfield, United Kingdom
 Group Project: ‘Developing a Skills Matrix Database’ (for Airbus).
 
 
@@ -81,7 +81,7 @@ Group Project: ‘Developing a Skills Matrix Database’ (for Airbus).
 ####[Hertfordshire University]
 #####BSc Business Information Systems
 ######Full time, September 1998 to June 2002 &nbsp; | &nbsp; Hertfordshire, United Kingdom
-Included an industrial placement with British Airways - Heathrow	
+Included an industrial placement with British Airways - Heathrow
 - Responsible for the development of an intranet website and migrating it to a CMS.
 - Managed IT helpdesk to deal with queries and developed technical/user manuals.
 - Implemented and supported Lotus Domino servers and clients.
@@ -92,7 +92,23 @@ Included an industrial placement with British Airways - Heathrow
 Professional Experience
 -----------------------
 
-####[Found] (part of Big Ideas Group) 
+####[Cohaesus]
+#####Junior Developer
+######November 2015 to Present &nbsp; | &nbsp; Old Street, United Kingdom
+- Developed HTML emails that are responsive and optimised for all email clients.
+- Quality assurance of emails: testing for rendering errors, linking and deliverability with multiple ISPs.
+- Provided accurate time estimates for development based on designs.
+- Created HTML5 static and double click banners with CSS and SVG.
+- Contributed to development of microsites using Bootstrap, HTML5, CSS3, SASS and gulp.js
+
+####[D&AD]
+##### Junior Digital Developer (temporary contract)
+######June 2015 to October 2015 &nbsp; | &nbsp; Liverpool Street, United Kingdom
+- Administered, monitored and maintained D&AD’s CRM platform, Salesforce, and deliver first line support and training for internal users.
+- Responsible for on-going technical development and maintenance of various digital platforms, such as website, archives and payment system.
+- Work with stakesholders to understand their business needs and associated technical requirements.
+
+####[Found] (part of Big Ideas Group)
 ##### Web Developer Intern
 ######February 2015 to April 2015 &nbsp; | &nbsp; Farringdon, United Kingdom
 - Collaborated with other developers in the team to create reliable, scalable and flexible web reports ensuring they are well tested and delivered according to the project schedule.
@@ -101,18 +117,18 @@ Professional Experience
 
 
 ####[Centrica]
-#####Campaign Manager  
+#####Campaign Manager
 ######March 2011 to July 2014 &nbsp; | &nbsp; Staines, United Kingdom
 - Built campaigns to migrate from the old to the new campaign management platform.
-- Delivered BAU/Adhoc outbound campaigns on the Aprimo platform within agreed timescales using SQL/SAS with average conversion rates of up to 20%. 
+- Delivered BAU/Adhoc outbound campaigns on the Aprimo platform within agreed timescales using SQL/SAS with average conversion rates of up to 20%.
 - Built appropriate tests or controls to monitor the effectiveness of the campaign selection process.
 - Provided guidance and support on the available and integrity of data that can be used in a campaign.
 
 #####Best Next Action Rules Analyst
-- Interpreted business requirements for next best action through high level requirements workshops & designing business rules that enable customer selections that optimise value for both customer & consistently across all British Gas channels. 
+- Interpreted business requirements for next best action through high level requirements workshops & designing business rules that enable customer selections that optimise value for both customer & consistently across all British Gas channels.
 - Proactive use of insight & user feedback to recommend & implement improvements to NBA through refinement of business rules via SAS.
 - Supported the Customer Contact Strategy through analysing & reporting the effectiveness of customer interactions in the current landscape.
-- Used analytical tools - SQL/SAS to analyse customer call centre data and making recommendations from findings to stakeholders inorder to improve customer experience. 
+- Used analytical tools - SQL/SAS to analyse customer call centre data and making recommendations from findings to stakeholders inorder to improve customer experience.
 
 
 
@@ -147,7 +163,7 @@ segmentation, mining and extraction from diverse sources for EDF using SAS and A
 - Responsible for the data extracts and analysis aspects of the Spend & Save Loyalty card.
 - Management Information Reporting using an Oracle Database and data mart (Alterian).
 - Development and execution of complex targeted direct mailing segmented programs run
-from the 15 Million customers of Spend & Save transactional database which accounts for £800m of retails sales. 
+from the 15 Million customers of Spend & Save transactional database which accounts for £800m of retails sales.
 - Utilised the iMarketer data mart to facilitate improved targeting through PCV (Potential Customer Value) modelling, with estimated benefits of £2 Million over the next year.
 - Identified problems and liaising with IT to resolve issues towards improving business processes.
 - Extracted data from Oracle using SQL, for analysis in Access and Excel. Reports were created based on analysis.
@@ -165,7 +181,7 @@ Interests
 More Information
 ----------------
 #####Contact details
-If you would like to find out more, please feel free to contact me or view more by the following:  
+If you would like to find out more, please feel free to contact me or view more by the following:
 - Phone + 44 (0)77 8999 5094
 - Email [leopoldkwok@gmail.com]
 - [Github]
@@ -185,6 +201,7 @@ If you would like to find out more, please feel free to contact me or view more 
 [Cranfield University]: http://www.cranfield.ac.uk/
 [Hertfordshire University]: http://www.herts.ac.uk/
 
+[D&AD]: http://www.dandad.org/
 [Found]: http://www.found.co.uk
 [Centrica]: http://www.centrica.com/
 [Everything Everywhere]: http://www.ee.co.uk
