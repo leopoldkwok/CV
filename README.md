@@ -21,7 +21,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 ######Full time, August to October 2014 &nbsp; | &nbsp; London, United Kingdom
 - Highly selective 12 week bootcamp style course
 - Full stack web development
-- Focus on agile practices, especially test driven development (TDD), pair programming and teamwork
+- Focus on agile practices, especially cache driven development (TDD), pair programming and teamwork
 - Two-week final team project to bring it all together
 - Built portfolio of projects, which are found on [Github]
 
@@ -58,7 +58,7 @@ I have always been excited by technology and wanted to learn how to become a dev
 - [x] Amazon web services
 
 ######Software development methodologies
-- [x] Test driven development
+- [x] Cache driven development
 - [x] Object oriented programming
 - [x] Software design
 - [x] Agile and lean principles
