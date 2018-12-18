@@ -1,7 +1,7 @@
 Leopold Kwok
 =========================
 
-Makers Academy graduate seeking employment as a Junior Developer in a great company to continue extending my web development skills and utilise my background in database marketing.
+Makers Academy graduate seeking employment as a Senior Developer in an amazing company to continue contributing my web development skills and utilise my background in database marketing.
 
 Past Projects
 ---------------
@@ -14,7 +14,7 @@ Past Projects
 Web Development
 ----------------
 
-I have always been excited by technology and wanted to learn how to become a developer. I decided I wanted to accelerate my learning by joining Makers Academy in London.
+I am excited by technology and wanted add value as developer. I decided I wanted to mentor other junior developers in quantum computing development by joining Makers Academy in London. I am driven, strong, smart, fast, fit and motivated!
 
 ####[Makers Academy]
 #####Web Development Intensive Course
